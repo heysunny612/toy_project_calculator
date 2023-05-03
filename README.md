@@ -1,4 +1,4 @@
-# 토이프로젝트 계산
+# 토이프로젝트 계산기 
 
 ![Animation12334](https://user-images.githubusercontent.com/127499117/235738882-9c22dc7f-4142-4be3-8d6d-c66c2eedd8cc.gif)
 
