@@ -1,6 +1,8 @@
 # 토이프로젝트 계산기 
 
-![Animation12334](https://user-images.githubusercontent.com/127499117/235738882-9c22dc7f-4142-4be3-8d6d-c66c2eedd8cc.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/127499117/235738882-9c22dc7f-4142-4be3-8d6d-c66c2eedd8cc.gif" alt="Animation12334">
+</p>
 
 > 정말 많은 메소드들을 사용하여 계산기를 구현하였다. String 메소드인 includes,  Array 메소드인 filter,forEach, Array.form 외에 문자열을 실수로 바꾸는 parseFloat() 함수를 사용하였고, 지난 토이프로젝트인 카카오맵에서 사용하였던 swich문도 복습할 수 있었다.! 
 
